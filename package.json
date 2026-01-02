@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.2.1"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^19.8.0",
